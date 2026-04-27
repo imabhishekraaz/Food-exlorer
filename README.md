@@ -43,10 +43,10 @@ src/
 npm install
 
 # Start development server
-npm start
+npm run dev
 
 # Build for production
-npm run build
+npm run dev
 ```
 
 The app will open at `http://localhost:3000`.
